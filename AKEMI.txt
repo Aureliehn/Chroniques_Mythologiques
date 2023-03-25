@@ -1,0 +1,20 @@
+	****		AKEMI		****
+
+
+Les mots et les voyelles.
+"ILS ONT INITIE LE CYCLE DE LA VIE ET DE LA MORT".
+
+Une fois ton code trouvé inscris le sur ta banche
+
+
+//////////////////////////////////////////////
+		A L E R T E
+/////////////////////////////////////////////
+ 
+Tu es en compagnie d'un yokai : le Bakeneto.
+Il s'agit d'un chat monstrueux. Cette créature
+connue pour hanter les foyers et prendre possession des
+humains qui y vivent.
+
+Pour t'en débarrasser tu dois purifier ta branche.
+Après ton dernier commit, squash l'intégralité de tes commits en un seul.
