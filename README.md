@@ -1,7 +1,7 @@
 # Chroniques_Mythologiques
 Ce jeu à pour objectif de manipuler les lignes de commandes et se familiariser avec git. 
 
-Le but est d'utiliser UNIQUEMENT git bash.
+**Le but est d'utiliser UNIQUEMENT git bash.**
 
 Démarrage: 
 
@@ -9,11 +9,11 @@ Démarrage:
 - Vérifie que tu trouves sur la branche main
 - Commences par récupérer les branchs non mergées de la manière suivante:
 
-  git checkout mystere
-  git checkout feature/#1-Creation_d_Onogoro
-  git checkout feature/#2-les_personnages
-  git checkout feature/#3-les_enigmes
-  git checkout reponses
+  * git checkout mystere  
+  * git checkout feature/#1-Creation_d_Onogoro  
+  * git checkout feature/#2-les_personnages  
+  * git checkout feature/#3-les_enigmes  
+  * git checkout reponses  
   
   En listant les branches (git branch) tu dois en avoir 6
 - Replaces toi sur main
@@ -25,4 +25,4 @@ Il existe une convention de nommage des branches : TYPE/numero-Description. Resp
 - Liste les fichiers présents dans cette branche et repère celui qui peut te présenter ta mission
 - Affiche le contenu de celui-ci avec la commande cat leNomDuFichier
 
-En cas de difficulté une branche réponse est disponible 
+*En cas de difficulté une branche réponse est disponible 
