@@ -1,0 +1,24 @@
+	****		LA CREATION D'ONOGORO		****
+
+Izanagi et Izanami sont les enfants des divinités originelles.
+
+Depuis le pont céleste, ils créèrent de leur lance l'île d'Onogoro, la première de l'archipel japonais.
+
+------------------------------------------------------------------------------------------------------
+
+Le premier code est délivré par le texte suivant :
+
+	Liée aux dieux, ciel et à la lance.
+		
+		Cachée au coeur de chaque nuage.
+
+			Croisée du jour et de la nuit.
+
+				On m'entend en prononçant le code.
+
+
+QUI SUIS-JE ?
+
+Pour obtenir cette réponse trouve une lettre par phrase.
+Ensuite, dans la branche concernant les personnages trouves le commit concernant HIROKI.
+Celui-ci te donnera un indice pour convertir tes lettres en chiffres.
