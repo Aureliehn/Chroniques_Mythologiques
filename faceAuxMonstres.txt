@@ -1,0 +1,21 @@
+	****		FACE AUX MONSTRES		****
+
+Exilé du royaume des cieux par Amaterasu, Susano affronta un serpent à 8 têtes. Il endormit le monstre avec du saké, coupa les têtes et trouva Kusanagi, l’épée légendaire.
+
+COUPE 
+HUIT 
+TETES
+
+C1:-1
+C2:-1
+C3:-1
+C4:C1+C2
+
+Sur ta branche :
+
+- crées un dossier (libre pour le nom)
+- crées un fichier à l'intérieur (libre pour le nom)
+- inscris le code dans ce nouveau fichier
+- ajoutes ce dossier dans ton commit précédent
+
+
