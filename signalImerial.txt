@@ -1,0 +1,14 @@
+	****		LE SIGNAL IMPERIAL		****
+
+Le premier empereur légendaire du Japon, Jinmu, l'arrière petit-fils de Nigini, lui même petit-fils d'Amateradu, déesse du Soleil.
+La lignée divine des empereurs se poursuit toujours dans notre temps 
+
+Notre dernier code est 7194.
+
+Sur ta branche :
+
+- déplace le fichier que tu as créés précedemment en dehors du dossier.
+- rassemble l'intégralité de tes commits.
+
+- utlise git log --grep pour trouver ce message de commit 'unTrainPeutEnCacherUnAutre' sur la branche mystère
+ 
