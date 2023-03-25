@@ -1,0 +1,11 @@
+	****		RAYONS COSMIQUES		****
+
+En se lavant le visage, Izanagi créa trois kami essentiels. 
+Amaterasu, la déesse du Soleil, naquit de son oeil gauche.
+
+Encore un cadeau : 9381
+
+Pour stocker ce code dans ton fichier sur ta branche, il t'es demandé cette fois-ci, de créer un commit 
+mais de ne pas faire de PUSH.
+
+Direction la prochaine énigme.
