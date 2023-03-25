@@ -1,0 +1,17 @@
+	****		HIROKI		****
+
+Maintenant que tu as les lettres voici comment les convertir :
+
+	A = 1 ... Z = 26
+
+Tu auras besoin de l'intégralité des réponses aux énigmes pour localiser Onogoro.
+Afin de n'égarer aucune réponse suis la procédure:
+
+	* Places toi sur ta branche
+	* Crées un fichier mesReponses.txt (touch mesReponses.txt)
+	* Utilises la commande cat mesReponses.txt pour éditer ton fichier
+	* Une fois ton texte inscrit tu dois procéder au commit
+		Le message de commit à une grande importance dans l'historique GIT. 
+		Il doit être clair et succinct.
+		Une personne exterieure doit pouvoir comprendre à quoi correspond ton code juste en lisant le message de commit.
+	* Pour résoudre la seconde énigme trouves le commit correspondant à celle-ci sur la branche enigmes
