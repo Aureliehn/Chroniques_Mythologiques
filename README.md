@@ -13,9 +13,10 @@ Démarrage:
   * git checkout feature/#1-Creation_d_Onogoro  
   * git checkout feature/#2-les_personnages  
   * git checkout feature/#3-les_enigmes  
-  * git checkout reponses  
+  * git checkout reponse  
+  * git checkout reponsesEnigmes  
   
-  En listant les branches (git branch) tu dois en avoir 6
+  En listant les branches (git branch) tu dois en avoir 7
 - Replaces toi sur main
 - Tu ne dois pas modifier les branches existantes.
 - Tu dois créer une branche personnelle 
