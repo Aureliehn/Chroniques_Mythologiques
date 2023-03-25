@@ -1,0 +1,35 @@
+	****		TA MISSION		****
+
+Tu es missionné pour localiser ONOGORO, la toute première île qui, en des temps immémoriaux,
+a émergé des flots et donné naissance au Japon.
+
+Carte en mains, tu plonges dans les livres et encyclopédies et consulte minutieusement leurs précieux contenus.
+
+Au commencement, quand les cieux et la terre n'étaient encore qu'un maelström chaotique,
+cinq déités fondamentales apparurent.
+
+Leur nom, Kotoamatsukami, signifie "divinités des cieux distingués".
+Asexuées, elles incarnent les forces qui dirigent le monde.
+Parmis eux IZANAGI  et IZANAMI, un homme et une femme également nommés kami, furent à l'origine de la création du monde.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Pour remplir cette mission tu dois résoudre dix enigmes.
+Pour chacune tu dois trouver un code à quatre chiffres.
+
+Gardes en tête ceci:
+
+
+	* git log est le phare dans la nuit
+	* git branch est une carte
+	* ls est une boussole 
+	* git checkout est ton meilleur moyen de locomotion
+	* cat est ta paire de lunettes
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Pour résoudre la première énigme, trouve la branche chronique mythologique.
+Une fois sur celle-ci, rends toi sur le commit concernant la création d'Onogoro.
+Tu trouveras un fichier portant le même nom affiches le dans ton terminal et réfléchis..
+
+	****		BONNE CHANCE		****
