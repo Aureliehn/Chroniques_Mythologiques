@@ -1,0 +1,90 @@
+git clone https://github.com/Aureliehn/Chroniques_Mythologiques.git
+git checkout mystere
+git checkout feature/#1-Creation_d_Onogoro
+git checkout feature/#2-les_personnages
+git checkout feature/#3-les_enigmes
+git checkout reponses
+git checkout reponsesEnigmes
+
+git branch
+
+git checkout main
+
+git branch feature/#1-monNomMesReponses
+
+Liste les fichiers présents dans cette branche et repère celui qui peut te présenter ta mission : ls
+
+cat mission.txt
+
+git checkout feature/#1-Creation_d_Onogoro
+git log
+git checkout 75b148a8f1a124a5f008b7317ddac63aee3dacaf
+ls
+cat creationDOnogoro.txt
+git branch
+git checkout feature/#2-les_personnages
+git log
+git checkout 78dbf22fca03111d33f03623f77e045d750aab55
+ls
+cat Hiroki.txt
+git checkout  
+git checkout feature/#1-monNomMesReponses
+touch mesReponses.txt
+nano mesReponses.txt
+écrire sa réponse CTRL X
+git status
+git add mesReponses.txt
+git commit -m”réponse énigme 1”
+git push
+git branch 
+git checkout feature/#3-les_enigmes
+git log
+git checkout 440ec080fcab657cc0a6e7d8f616e1a2e4e848a5
+ls
+ cat enigme2UnionSacree.txt
+
+
+*****ENIGME 3*****
+git log => compte le nombre de commit = N
+git rebase -i HEAD~N
+remplaces le pick du dernier commit par squash (i pour écrire échap pour stopper l’écriture :wq pour enregistrer et sortir)
+gardes un seul commentaire et :wq
+
+*****ENIGME4***** 
+Sur la branchefeature/#3-les_enigmes
+Git log pour trouver le commit a copier.
+Copies le hash de ce commit 
+Git checkout ta branche
+ git cherry-pick cc4a31936db73c28c67c9a7544ed4a87e5404e64
+
+*****ENIGME 6*****
+ajout du texte dans le fichier 
+git commit --amend (permet d'ajouter des modifications dans le dernier commit)
+ou
+git push -f (ou –force)
+ou
+git reset hashDuDernierCommit (permettra de revenir un commit avant. l’utilisation du reset supprime les commit suivants)
+
+*****ENIGME 8*****
+Git revert hashDuCommitSurLequelOnVeutEtreRebaser
+git status 
+git add 
+git commit
+
+*****Enigme 9*****
+mkdir nomDossier
+cd nomDossier
+touch nomFichier
+nano nomFichier
+git add 
+git commit 
+git push
+
+
+*****ENIGME 10*****
+mv nomDossier/nomFichier ../
+git log => compte le nombre de commit = N
+git rebase -i HEAD~N
+remplaces le pick du dernier commit par squash (i pour écrire échap pour stopper l’écriture :wq pour enregistrer et sortir)
+gardes un seul commentaire et :wq
+git log --grep=train
