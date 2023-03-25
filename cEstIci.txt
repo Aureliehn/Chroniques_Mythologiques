@@ -1,0 +1,5 @@
+Les codes ne te donneront pas la localisation d'Onogoro (mais google peut être)
+
+Tu n'as pas tout perdu, tu as utilisé les commandes git les plus fréquentes!
+
+Pour aller plus loin tu peux regarder la création des repo, la gestion des conflits ou encore la création des alias
