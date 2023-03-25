@@ -1,0 +1,10 @@
+	****		NOUVELLE VAGUE		****
+
+Izanagi échappa à Izanami et occulta le passage entre les mondes des morts et des vivants.
+Pour se purifier, il se baigna dans l'océan et engendra de nouveaux kamis.
+
+Ici, le code est offert :) 3546
+
+Offert est un grand mot. Il y a bien une contrepartie.
+Tu dois prendre ce commit et l'intégrer dans ta branche.
+Un indice : cherry-pick
